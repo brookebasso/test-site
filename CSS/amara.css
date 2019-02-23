@@ -1,0 +1,80 @@
+html, body{
+	font-family: "Courier New", Courier, monospace;
+	margin: 0;
+
+}
+header{
+	background-image: url(file:///Users/brookebasso/Desktop/test-site/background.jpg);
+	padding: 40px;
+	text-align: center;
+
+}
+
+h1{
+	font-family: "Courier New", Courier, monospace;
+	font-size: 30px;
+	letter-spacing: 2px;
+	word-spacing: 2px;
+	color: white;
+	font-weight: 550;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: uppercase;
+}
+
+h2{
+	color: #c4998a;
+}
+
+
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;
+	background-color: #efe2d8
+}
+
+img.big-image{
+	max-width: 100%;
+	display: block;
+	margin: 0 auto;
+	
+}
+
+p.caption{
+	font-size: 16px;
+	color:#c4998a;
+	font-style: italic;
+	text-align: center;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+
+}
+
+a{
+	color: black;
+}
+
+p{
+	color: black;
+}
+
+ol{
+	color: black;
+}
+
+ul{
+	color: black;
+
+}
+
+footer{
+	padding: 40px 20px;
+	color: #c4998a;
+	text-align: center;
+}
